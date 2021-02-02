@@ -1,4 +1,4 @@
-# ParqueDosHorrores
+# Parque Dos Horrores
 "Parque dos Horrores" is a student adventure game inspired by other games like Zelda, using an isometric perspective camera and shooting/item collecting mechanics.
 
 - It was completely developed using Unity Game Engine, Playground scripts and my own scripts.
